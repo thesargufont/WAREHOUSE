@@ -1,0 +1,14 @@
+{
+  "name": "@mariodelgadosr/warehouse-visualization-with-datavisual",
+  "main": "main_source@001.js",
+  "version": "1249.0.0",
+  "homepage": "https://observablehq.com/@mariodelgadosr/warehouse-visualization-with-datavisual",
+  "author": {
+    "name": "Mario Delgado ",
+    "url": "https://observablehq.com/@mariodelgadosr"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
